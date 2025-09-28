@@ -1,0 +1,12 @@
+C:\Users\efper\Documents\MilliconProyect\PropertyManagerFullStack\Backend\PropertyManager.Core\bin\Debug\net9.0\PropertyManager.Core.deps.json
+C:\Users\efper\Documents\MilliconProyect\PropertyManagerFullStack\Backend\PropertyManager.Core\bin\Debug\net9.0\PropertyManager.Core.dll
+C:\Users\efper\Documents\MilliconProyect\PropertyManagerFullStack\Backend\PropertyManager.Core\bin\Debug\net9.0\PropertyManager.Core.pdb
+C:\Users\efper\Documents\MilliconProyect\PropertyManagerFullStack\Backend\PropertyManager.Core\obj\Debug\net9.0\PropertyManager.Core.csproj.AssemblyReference.cache
+C:\Users\efper\Documents\MilliconProyect\PropertyManagerFullStack\Backend\PropertyManager.Core\obj\Debug\net9.0\PropertyManager.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\efper\Documents\MilliconProyect\PropertyManagerFullStack\Backend\PropertyManager.Core\obj\Debug\net9.0\PropertyManager.Core.AssemblyInfoInputs.cache
+C:\Users\efper\Documents\MilliconProyect\PropertyManagerFullStack\Backend\PropertyManager.Core\obj\Debug\net9.0\PropertyManager.Core.AssemblyInfo.cs
+C:\Users\efper\Documents\MilliconProyect\PropertyManagerFullStack\Backend\PropertyManager.Core\obj\Debug\net9.0\PropertyManager.Core.csproj.CoreCompileInputs.cache
+C:\Users\efper\Documents\MilliconProyect\PropertyManagerFullStack\Backend\PropertyManager.Core\obj\Debug\net9.0\PropertyManager.Core.dll
+C:\Users\efper\Documents\MilliconProyect\PropertyManagerFullStack\Backend\PropertyManager.Core\obj\Debug\net9.0\refint\PropertyManager.Core.dll
+C:\Users\efper\Documents\MilliconProyect\PropertyManagerFullStack\Backend\PropertyManager.Core\obj\Debug\net9.0\PropertyManager.Core.pdb
+C:\Users\efper\Documents\MilliconProyect\PropertyManagerFullStack\Backend\PropertyManager.Core\obj\Debug\net9.0\ref\PropertyManager.Core.dll

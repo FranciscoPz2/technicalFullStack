@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "36CDxIRataI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\efper\\Documents\\MilliconProyect\\PropertyManagerFullStack\\Backend\\PropertyManager.Core\\PropertyManager.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\efper\\.nuget\\packages\\mongodb.bson\\3.5.0\\mongodb.bson.3.5.0.nupkg.sha512",
+    "C:\\Users\\efper\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\efper\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
